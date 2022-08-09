@@ -13,3 +13,9 @@ Man---find more info about a particular command
 Q/control+C---exit
 Whatis---what it does on on Mac of a command description
 Sudo "command"---type in password and elevate user privileges
+
+
+Git Commands
+Git init--initialise git
+Git add .---add existing files
+Git commit -m "commit message"--- add a message
