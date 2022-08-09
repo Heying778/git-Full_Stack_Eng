@@ -31,8 +31,12 @@ sudo "command"---type in password and elevate user privileges
 
 # Git Commands
 
+### Push My Files to Github
+
 git init--initialise git
 
 git add .---add existing files
 
 git commit -m "commit message"--- add a message
+
+
