@@ -31,8 +31,8 @@ sudo "command"---type in password and elevate user privileges
 
 # Git Commands
 
-Git init--initialise git
+git init--initialise git
 
-Git add .---add existing files
+git add .---add existing files
 
-Git commit -m "commit message"--- add a message
+git commit -m "commit message"--- add a message
