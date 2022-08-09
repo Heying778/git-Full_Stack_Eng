@@ -31,7 +31,7 @@ sudo "command"---type in password and elevate user privileges
 
 # Git Commands
 
-### Push My Files to Github
+## Push My Files to Github
 
 git init--initialise git
 
