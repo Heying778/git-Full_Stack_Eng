@@ -1,0 +1,15 @@
+Basic Syntaxes about Terminal
+Pwd---show directory
+Cd---change directory
+Ls---listing directory
+Open--open filename
+Cp--copy filename
+Mv---move filename
+touch---create a text file
+Mkdir---create a directory
+Rmdir---remove an empty directory
+Re-R---remove an entire directory
+Man---find more info about a particular command
+Q/control+C---exit
+Whatis---what it does on on Mac of a command description
+Sudo "command"---type in password and elevate user privileges
